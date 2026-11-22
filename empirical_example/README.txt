@@ -1,0 +1,1 @@
+uv run --with pandas --with pyarrow --with matplotlib plot_data.py
